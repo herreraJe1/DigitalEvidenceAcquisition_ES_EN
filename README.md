@@ -79,13 +79,13 @@ Informática forense, respuesta a incidentes, manejo de evidencias, verificació
 ![FTK](DigitalEvidenceAcquisition_ES_EN/assets/configuracion_ftk.png)
 
 ### ⚙️ Configuración de FTK Imager / FTK Imager Setup  
-![RAM](Adquisicion_Evidencias_Digitales/assets/adquisicion_ram.png)
+![RAM](DigitalEvidenceAcquisition_ES_EN/assets/adquisicion_ram.png)
 
 ### 💾 Adquisición de RAM / RAM Acquisition  
-![Adquisición RAM](assets/adquisicion_ram.png)
+![Adquisición RAM](DigitalEvidenceAcquisition_ES_EN/assets/adquisicion_ram.png)
 
 ### 🧮 Imagen de disco en vivo / Live Disk Acquisition  
-![Disco](Adquisicion_Evidencias_Digitales/assets/adquisicion_disco.png)
+![Disco](DigitalEvidenceAcquisition_ES_EN/assets/adquisicion_disco.png)
 
 ### 🔐 Verificación de integridad / Hash Verification  
-![Hashes](Adquisicion_Evidencias_Digitales/assets/hashes_generados.png)
+![Hashes](DigitalEvidenceAcquisition_ES_EN/assets/hashes_generados.png)
