@@ -11,7 +11,7 @@ This repository documents the practical application of digital evidence acquisit
 - FTK Imager v4.7.3.81  
 - USB write blockers  
 - Hashing algorithms: MD5 and SHA-1
-
+  
 ### 🔍 Procedures Included  
 - Acquisition of external storage device with write-block enabled  
 - Live acquisition from running system (RAM + disk image)  
