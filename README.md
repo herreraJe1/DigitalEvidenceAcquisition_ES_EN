@@ -76,7 +76,7 @@ Informática forense, respuesta a incidentes, manejo de evidencias, verificació
 ## 🖼️ Evidencias Visuales / Visual Evidence
 
 ### 🔒 Bloqueo contra escritura / Write-block Activation  
-![FTK](Adquisicion_Evidencias_Digitales/assets/configuracion_ftk.png)
+![FTK](DigitalEvidenceAcquisition_ES_EN/assets/configuracion_ftk.png)
 
 ### ⚙️ Configuración de FTK Imager / FTK Imager Setup  
 ![RAM](Adquisicion_Evidencias_Digitales/assets/adquisicion_ram.png)
