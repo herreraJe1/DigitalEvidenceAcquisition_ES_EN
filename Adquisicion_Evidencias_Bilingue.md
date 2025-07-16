@@ -71,17 +71,18 @@ The process required precision and care to ensure data integrity. Applied knowle
 ## 🖼️ Evidencias Visuales / Visual Evidence
 
 ### 🔒 Bloqueo contra escritura / Write-block Activation  
-![Bloqueo contra escritura](assets/bloqueo_escritura.png)
+![FTK](Adquisicion_Evidencias_Digitales/assets/configuracion_ftk.png)
 
 ### ⚙️ Configuración de FTK Imager / FTK Imager Setup  
-![Configuración FTK](assets/configuracion_ftk.png)
+![RAM](Adquisicion_Evidencias_Digitales/assets/adquisicion_ram.png)
 
 ### 💾 Adquisición de RAM / RAM Acquisition  
 ![Adquisición RAM](assets/adquisicion_ram.png)
 
 ### 🧮 Imagen de disco en vivo / Live Disk Acquisition  
-![Adquisición disco](assets/adquisicion_disco.png)
+![Disco](Adquisicion_Evidencias_Digitales/assets/adquisicion_disco.png)
 
 ### 🔐 Verificación de integridad / Hash Verification  
-![Generación de hashes](assets/hashes_generados.png)
+![Hashes](Adquisicion_Evidencias_Digitales/assets/hashes_generados.png)
+
  
