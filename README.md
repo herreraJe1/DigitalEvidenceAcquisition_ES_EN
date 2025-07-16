@@ -76,16 +76,16 @@ Informática forense, respuesta a incidentes, manejo de evidencias, verificació
 ## 🖼️ Evidencias Visuales / Visual Evidence
 
 ### 🔒 Bloqueo contra escritura / Write-block Activation  
-![FTK](DigitalEvidenceAcquisition_ES_EN/assets/configuracion_ftk.png)
+![Bloqueo](assets/bloqueo_escritura.png)
 
 ### ⚙️ Configuración de FTK Imager / FTK Imager Setup  
-![RAM](DigitalEvidenceAcquisition_ES_EN/assets/adquisicion_ram.png)
+![FTK](assets/configuracion_ftk.png)
 
 ### 💾 Adquisición de RAM / RAM Acquisition  
 ![Adquisición RAM](assets/adquisicion_ram.png)
 
 ### 🧮 Imagen de disco en vivo / Live Disk Acquisition  
-![Disco](DigitalEvidenceAcquisition_ES_EN/assets/adquisicion_disco.png)
+![Disco](assets/adquisicion_disco.png)
 
 ### 🔐 Verificación de integridad / Hash Verification  
-![Hashes](DigitalEvidenceAcquisition_ES_EN/assets/hashes_generados.png)
+![Hashes](assets/hashes_generados.png)
