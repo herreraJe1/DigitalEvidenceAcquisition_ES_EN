@@ -1,4 +1,4 @@
-# DugitalEvidenceAcquisition_ES_EN
+# DigitalEvidenceAcquisition_ES_EN
 Academic forensic acquisition practice with FTK Imager
 # 🧪 Digital Evidence Acquisition / Adquisición de Evidencia Digital
 
