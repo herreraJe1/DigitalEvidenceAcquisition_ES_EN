@@ -1,8 +1,4 @@
 # 🕵️‍♀️ Adquisición de Evidencias Digitales / Digital Evidence Acquisition  
-**Nombre / Name:** Jocelyne Herrera Hidalgo  
-**Fecha de Entrega / Submission Date:** 16/12/2024 · December 16, 2024
-
----
 
 ## 🧭 Introducción / Introduction  
 
