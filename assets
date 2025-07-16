@@ -1,1 +1,7 @@
-
+Adquisicion_Evidencias_Digitales/
+└── /assets/
+    ├── bloqueo_escritura.png
+    ├── configuracion_ftk.png
+    ├── adquisicion_ram.png
+    ├── adquisicion_disco.png
+    └── hashes_generados.png
