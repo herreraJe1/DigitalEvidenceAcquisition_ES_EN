@@ -71,3 +71,21 @@ Todos los pasos siguen las mejores prácticas forenses:
 
 ### 📚 Temas Relacionados  
 Informática forense, respuesta a incidentes, manejo de evidencias, verificación hash, captura de memoria, imagen de disco.
+
+
+## 🖼️ Evidencias Visuales / Visual Evidence
+
+### 🔒 Bloqueo contra escritura / Write-block Activation  
+![FTK](Adquisicion_Evidencias_Digitales/assets/configuracion_ftk.png)
+
+### ⚙️ Configuración de FTK Imager / FTK Imager Setup  
+![RAM](Adquisicion_Evidencias_Digitales/assets/adquisicion_ram.png)
+
+### 💾 Adquisición de RAM / RAM Acquisition  
+![Adquisición RAM](assets/adquisicion_ram.png)
+
+### 🧮 Imagen de disco en vivo / Live Disk Acquisition  
+![Disco](Adquisicion_Evidencias_Digitales/assets/adquisicion_disco.png)
+
+### 🔐 Verificación de integridad / Hash Verification  
+![Hashes](Adquisicion_Evidencias_Digitales/assets/hashes_generados.png)
