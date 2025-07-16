@@ -67,4 +67,21 @@ El proceso exigió precisión y cuidado para garantizar la integridad. El conoci
 
 **EN:**  
 The process required precision and care to ensure data integrity. Applied knowledge and sound practices enabled reliable results.
+
+## 🖼️ Evidencias Visuales / Visual Evidence
+
+### 🔒 Bloqueo contra escritura / Write-block Activation  
+![Bloqueo contra escritura](assets/bloqueo_escritura.png)
+
+### ⚙️ Configuración de FTK Imager / FTK Imager Setup  
+![Configuración FTK](assets/configuracion_ftk.png)
+
+### 💾 Adquisición de RAM / RAM Acquisition  
+![Adquisición RAM](assets/adquisicion_ram.png)
+
+### 🧮 Imagen de disco en vivo / Live Disk Acquisition  
+![Adquisición disco](assets/adquisicion_disco.png)
+
+### 🔐 Verificación de integridad / Hash Verification  
+![Generación de hashes](assets/hashes_generados.png)
  
