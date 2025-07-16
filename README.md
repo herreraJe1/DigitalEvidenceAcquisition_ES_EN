@@ -82,7 +82,7 @@ Informática forense, respuesta a incidentes, manejo de evidencias, verificació
 ![RAM](DigitalEvidenceAcquisition_ES_EN/assets/adquisicion_ram.png)
 
 ### 💾 Adquisición de RAM / RAM Acquisition  
-![Adquisición RAM](DigitalEvidenceAcquisition_ES_EN/assets/adquisicion_ram.png)
+![Adquisición RAM](assets/adquisicion_ram.png)
 
 ### 🧮 Imagen de disco en vivo / Live Disk Acquisition  
 ![Disco](DigitalEvidenceAcquisition_ES_EN/assets/adquisicion_disco.png)
