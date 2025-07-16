@@ -4,6 +4,8 @@ Academic forensic acquisition practice with FTK Imager
 
 ## 🇺🇸 English Version
 
+I’m a Bilingual Technical Support Analyst and cybersecurity student with experience in remote support, technical documentation, and digital forensic analysis. I excel at breaking down complex scenarios into clear, structured steps and creating reusable bilingual resources for global teams. My strengths lie in collaborative environments, well-defined processes, and precise documentation as a tool for continuous improvement. I’m currently transforming academic projects into practical GitHub examples, focusing on forensic evidence acquisition, log analysis, and Blue Team best practices.
+
 ### 🎯 Purpose  
 This repository documents the practical application of digital evidence acquisition procedures as part of academic cybersecurity training. It simulates real-world incident response tasks using trusted forensic tools.
 
@@ -22,8 +24,7 @@ This repository documents the practical application of digital evidence acquisit
 | Folder             | Contents                                               |
 |--------------------|--------------------------------------------------------|
 | `/docs/`           | Step-by-step procedures in English and Spanish         |
-| `/assets/`         | Screenshots of tools, configurations, and hash reports |
-| `/evidences/`      | Hash results and simulated acquisition outputs         |
+| `/assets/`         | Screenshots of tools, configurations, and hash reports |         |
 | `/README.md`       | Bilingual project overview                             |
 
 ### 📌 Integrity Focus  
@@ -38,6 +39,8 @@ Digital forensics, incident response, evidence handling, hash verification, memo
 ---
 
 ## 🇪🇸 Versión en Español
+
+Soy Analista de Soporte Técnico Bilingüe y estudiante de ciberseguridad con experiencia en asistencia remota, documentación técnica, y análisis forense digital. Destaco por mi capacidad para descomponer escenarios complejos en pasos claros y estructurados, así como crear recursos bilingües reutilizables para equipos globales. Me especializo en entornos colaborativos, procesos bien definidos y documentación precisa como herramienta de mejora continua. Actualmente transformo mis proyectos académicos en ejemplos prácticos alojados en GitHub, enfocándome en evidencia forense, análisis de logs y buenas prácticas del Blue Team.
 
 ### 🎯 Propósito  
 Este repositorio documenta la aplicación práctica de los procedimientos de adquisición de evidencia digital como parte del entrenamiento académico en ciberseguridad. Simula tareas reales de respuesta a incidentes utilizando herramientas forenses confiables.
@@ -58,7 +61,6 @@ Este repositorio documenta la aplicación práctica de los procedimientos de adq
 |---------------------|----------------------------------------------------------|
 | `/docs/`            | Procedimientos paso a paso en español e inglés           |
 | `/assets/`          | Capturas de pantalla de herramientas y reportes de hash  |
-| `/evidences/`       | Resultados de hash y simulaciones de adquisición         |
 | `/README.md`        | Descripción bilingüe del proyecto                        |
 
 ### 📌 Enfoque en Integridad  
